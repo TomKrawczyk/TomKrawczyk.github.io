@@ -1,8 +1,14 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.tomkrawczyk.ankietyplay",
-        "sha256_cert_fingerprints": ["D2:30:15:F0:44:28:A7:4A:E0:C1:F4:78:B7:62:78:2F:46:B2:F5:32:59:B0:B6:CA:EE:E1:F8:CD:D2:62:1E:97"]
-      }
-    }]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tomkrawczyk.ankietyplay",
+            "sha256_cert_fingerprints": [
+                "53:D3:13:69:79:81:03:F1:4E:7E:06:7E:BC:66:B6:AF:C3:78:F7:93:41:51:4E:0D:8B:38:69:29:B7:F9:72:AF"
+            ]
+        }
+    }
+]
