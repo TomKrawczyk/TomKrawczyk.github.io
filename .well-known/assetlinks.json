@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tomkrawczyk.ankietyplay",
+        "sha256_cert_fingerprints": ["D2:30:15:F0:44:28:A7:4A:E0:C1:F4:78:B7:62:78:2F:46:B2:F5:32:59:B0:B6:CA:EE:E1:F8:CD:D2:62:1E:97"]
+      }
+    }]
