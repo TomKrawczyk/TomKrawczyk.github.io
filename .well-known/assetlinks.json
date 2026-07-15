@@ -10,5 +10,17 @@
                 "30:02:E1:2A:9D:E4:E7:A5:27:18:A5:FD:5F:60:32:83:B6:FD:F5:BF:79:8D:7F:0D:E1:C3:E7:D6:87:79:DA:FF"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tomkrawczyk.skupmanager",
+            "sha256_cert_fingerprints": [
+                "DC:9A:02:E7:53:90:4B:45:CA:8D:C6:D3:13:28:FE:C6:CB:90:F4:2D:CB:41:E3:A2:5C:C8:6E:DF:AE:08:81:8C"
+            ]
+        }
     }
 ]
